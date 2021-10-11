@@ -5,4 +5,5 @@ persist.camera.sat.fallback.luxindex=405
 persist.camera.sat.fallback.lux.d=20
 
 # Display
+debug.disable_screen_decorations=true
 ro.surface_flinger.has_wide_color_display=true
