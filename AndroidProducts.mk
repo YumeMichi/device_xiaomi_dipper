@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lemon_dipper.mk
+    $(LOCAL_DIR)/aosp_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    lemon_dipper-user \
-    lemon_dipper-userdebug \
-    lemon_dipper-eng
+    aosp_dipper-user \
+    aosp_dipper-userdebug \
+    aosp_dipper-eng
