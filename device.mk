@@ -99,3 +99,7 @@ PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.1.vendor \
     android.hardware.secure_element@1.2.vendor \
     SecureElement
+
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/nxp/opensource/pn5xx
