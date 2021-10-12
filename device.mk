@@ -21,7 +21,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    DipperNoCutoutOverlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
